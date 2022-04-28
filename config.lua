@@ -11,8 +11,8 @@ Keys = {
 
 Config = {}
 
-Config.MaxPayout = 22
-Config.MinPayout = 18
+Config.MaxPayout = 50
+Config.MinPayout = 20
 
 Config.Forklift = {
 	['Jobstart'] = { -- the place where you start and finish your work
